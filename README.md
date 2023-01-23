@@ -19,7 +19,7 @@ robot.
 
 ## Desarrollo de Firmware
 
-Experiencia en desarrollo de firmware para microcontroladores y microprocesadores.
+Experiencia de 3 años en desarrollo de firmware para microcontroladores y microprocesadores.
 
 ### IDEs:
 
